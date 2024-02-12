@@ -1,0 +1,11 @@
+body {
+  font-family: "Space Grotesk", sans-serif;
+  background-color: #334155;
+  color: #ffffff;
+}
+h1 {
+  color: #22d3ee;
+}
+.main {
+  height: 100vh;
+}
